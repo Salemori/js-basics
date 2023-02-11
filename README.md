@@ -1,7 +1,7 @@
 ## Assignment
 
 ### Answer_1
-- [x] A cross-platform runtime environment called NodeJs (Node) that enables JavaScript code run outside the browser.
+- [x] A cross-platform runtime environment called ```NodeJs (Node)``` that enables JavaScript code run outside the browser.
 
 ### Answer_2
 - [x] JavaScript can be used for the following:
@@ -22,13 +22,13 @@
     * Game development.
 
 ### Answer_3
-- [x] ECMAScript was first released June, 1997.
+- [x] ECMAScript was first released ```June, 1997```.
 
 ### Answer_4
-- [x] To log to the console in JavaScript, the function "console.log()" is used.
+- [x] To log to the console in JavaScript, the function ```console.log()``` is used.
 
-### Answer_5
-- [x] The following are tech fields that use JavaScript:
+### Answer_5    
+- [x] The following are ```tech fields``` that use JavaScript:
     * Backend Develoment.
     * System Administration.
     * Full Stack Web Development.
@@ -46,7 +46,5 @@
 ```Dynamically typed languages:``` Python, PHP, JavaScript, Erlang,  Perl, Ruby
 
 ### Answer_7
- - [x] ```Null``` It is the intentional absence of the value. It is assigned, and explicitly means nothing, an empty or non-existent value. 
+ - [x] ```Null``` It is the intentional absence of the value. It is assigned, and explicitly means nothing, an empty or non-existent value.
  ```Undefined``` means a variable has been declared, but the value of that variable has not yet been defined.
-
-
