@@ -22,7 +22,7 @@
     * Game development.
 
 ### Answer_3
-- [x] ECMAScript was first released ```June, 1997```.
+- [x] ECMAScript was first released ```June 1997```.
 
 ### Answer_4
 - [x] To log to the console in JavaScript, the function ```console.log()``` is used.
@@ -43,7 +43,7 @@
 - [x] ```Dynamically typed languages``` perform type checking at runtime, while ```statically typed languages``` perform type checking before run time. Hence the type of a variable is known/specified at compile time for statically typed languages which is not the case with dynamically typed languages.
 #### Examples:
 ```Statically typed languages:``` C, C++, Java, Scala, Rust, Go. \
-```Dynamically typed languages:``` Python, PHP, JavaScript, Erlang,  Perl, Ruby
+```Dynamically typed languages:``` Python, PHP, JavaScript, Erlang,  Perl, Ruby.
 
 ### Answer_7
  - [x] ```Null``` It is the intentional absence of the value. It is assigned, and explicitly means nothing, an empty or non-existent value.
