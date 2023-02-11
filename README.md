@@ -42,7 +42,7 @@
 ### Answer_6
 - [x] ```Dynamically typed languages``` perform type checking at runtime, while ```statically typed languages``` perform type checking before run time. Hence the type of a variable is known/specified at compile time for statically typed languages which is not the case with dynamically typed languages.
 #### Examples:
-```Statically typed languages:``` C, C++, Java, Scala, Rust, Go 
+```Statically typed languages:``` C, C++, Java, Scala, Rust, Go. \
 ```Dynamically typed languages:``` Python, PHP, JavaScript, Erlang,  Perl, Ruby
 
 ### Answer_7
