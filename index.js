@@ -1,11 +1,12 @@
-// function  multiply(first_num, second_num)
-// {
-//     return(first_num * second_num);
-// }
+// A function that multiplies two numbers.
+function  multiply(first_num, second_num)
+{
+    return(first_num * second_num);
+}
 
-// console.log(multiply(100, 13));
+console.log(multiply(100, 13));
 
-
+// String concatination.
 let first_name = "Aduragbemi";
 let last_name = "Oduntan";
 let stuter_track = "Backend Development";
